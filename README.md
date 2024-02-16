@@ -1,2 +1,2 @@
 # Makefile
-Makefile for Terraform
+Makefile for Linting Terraform modules
